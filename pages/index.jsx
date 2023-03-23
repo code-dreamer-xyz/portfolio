@@ -41,7 +41,7 @@ export default function App(props) {
     <>
       {/* Website Head Paet And Meta Tags Container */}
       <Head>
-        <title>Oleh&#39;s Portfolio</title>
+        <title>Oleh&#39;s Portfolio | Frontend Engineer</title>
         <meta
           name="theme-color"
           content={theme === "dark" ? "#111119" : "#fff"}
@@ -49,15 +49,15 @@ export default function App(props) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Portfolio • I'm Oleh Makhovyk, A Passionate Junior FullStack (MERN) Developer. Interested in ReactJs, NextJs, NodeJs, PostgresSQL and MongoDB, and this is my portfolio • mmm066550"
+          content="Portfolio • I'm Oleh Makhovyk, A Passionate Frontend Engineer. Interested in ReactJs, NextJs, NodeJs, PostgresSQL and MongoDB, and this is my portfolio"
         />
         <meta
           name="keyword"
-          content="moustapha.me, oleh, makhovyk, MERN, fullstack, nextjs, reactjs, nodejs, expressjs, mongodb, portfolio, javascript, developer"
+          content="oleh, makhovyk, MERN, frontend, fullstack, nextjs, reactjs, remix, nodejs, expressjs, mongodb, portfolio, javascript, developer"
         ></meta>
         <meta
           property="og:title"
-          content="Oleh Makhovyk | MERN Stack Developer • NextJs | ReactJs | Typescript | NodeJs | ExpressJs | MongoDB | PostgresSQL"
+          content="Oleh Makhovyk | MERN Stack Developer • NextJs | ReactJs | Remix | Typescript | NodeJs | ExpressJs | MongoDB | PostgresSQL"
         />
         <meta
           property="og:description"
