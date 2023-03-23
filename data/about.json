@@ -1,14 +1,15 @@
 {
   "facts": [
-    "Hello! I am Moustapha a Fresh Graduate Computer Engineering Student.",
-    "I have a strong interest in Full stack development and I am looking for opportunities that would help me grow professionally while being resourceful for the organization."
+    "Hello! I am Oleh Makhovyk a Front-end developer with 7+ years of experience.",
+    "I have a strong experience in Front-end development and I am looking for opportunities that would help me advance my career while being resourceful for the organization."
   ],
   "skills": [
-    "Typescript",
-    "Next js",
     "React js",
-    "Node js",
-    "Express js",
+    "Next js",
+    "Angular",
+    "HTML/CSS",
+    "JavaScript",
+    "Typescript",
     "Mongodb",
     "Postgres SQL"
   ]
