@@ -1,8 +1,9 @@
 import React from "react";
 import styles from "./social-lists.module.sass";
 import { FiGithub } from "react-icons/fi";
-import { FaLinkedinIn } from "react-icons/fa";
-import { BsFacebook, BsWhatsapp } from "react-icons/bs";
+import { SiSkype } from "react-icons/si";
+import { FaDiscord } from "react-icons/fa"
+import { BsWhatsapp } from "react-icons/bs";
 
 export default function SocialLists({ data }) {
   return (
@@ -26,24 +27,24 @@ export default function SocialLists({ data }) {
             </li>
             <li className={styles.social_list_item}>
               <a
-                href={data.linkedin}
+                href={data.skype}
                 target={"_blank"}
-                title="Linkedin"
+                title="Skype"
                 className={styles.social_link}
                 rel="noreferrer"
               >
-                <FaLinkedinIn />
+                <SiSkype />
               </a>
             </li>
             <li className={styles.social_list_item}>
               <a
-                href={data.facebook}
+                href={data.discord}
                 target={"_blank"}
-                title="Facebook"
+                title="Discord"
                 className={styles.social_link}
                 rel="noreferrer"
               >
-                <BsFacebook />
+                <FaDiscord />
               </a>
             </li>
             <li className={styles.social_list_item}>

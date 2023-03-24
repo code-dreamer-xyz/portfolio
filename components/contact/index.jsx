@@ -5,8 +5,7 @@ import { BsTelephone } from "react-icons/bs";
 import { AiOutlineMail } from "react-icons/ai";
 import { HiOutlineLocationMarker } from "react-icons/hi";
 import { SiUpwork } from "react-icons/si";
-import { FaLinkedinIn } from "react-icons/fa";
-import { BsFacebook, BsWhatsapp } from "react-icons/bs";
+import { BsSkype, BsDiscord, BsFacebook, BsWhatsapp } from "react-icons/bs";
 
 export default function Contact({ data }) {
   return (
@@ -67,18 +66,18 @@ export default function Contact({ data }) {
                         rel="noreferrer"
                         href={data.linkedin}
                       >
-                        <FaLinkedinIn />
+                        <BsSkype />
                       </a>
                     </div>
                     <div className="col-12 col-md-6 align-items-center d-flex justify-content-center my-5">
                       <a
                         className={styles.social_link_styled}
                         target={"_blank"}
-                        title="Facebook"
+                        title="Discord"
                         rel="noreferrer"
-                        href={data.facebook}
+                        href={data.discord}
                       >
-                        <BsFacebook />
+                        <BsDiscord />
                       </a>
                     </div>
                     <div className="col-12 col-md-6 align-items-center d-flex justify-content-center my-5">
