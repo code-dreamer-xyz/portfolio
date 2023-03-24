@@ -4,7 +4,7 @@
     "title": "Axies NFT",
     "tools": ["NextJs", "Bootstrap", "Material UI", "Sass"],
     "live_preview": "https://axiesnft-mmm066550.netlify.app",
-    "repo": "https://github.com/mmm-066550/Axies-NFT-nextJs",
+    "repo": "https://github.com/code-dreamer-xyz/Axies-NFT-nextJs",
     "thubmnail": "/assets/images/projects/axies_light.png",
     "overview": "🐵💲 Axies is the NFT Marketplace for traders and creators. Built with NextJS, Bootstrap and Material UI"
   },
@@ -20,7 +20,7 @@
       "spotifySDK"
     ],
     "live_preview": "https://spotify-mmm066550.netlify.app",
-    "repo": "https://github.com/mmm-066550/spotify-nextjs-clone",
+    "repo": "https://github.com/code-dreamer-xyz/Spotify-Next.js-Clone",
     "thubmnail": "/assets/images/projects/spotify-dark.png",
     "overview": "🎧🎵 Spotify clone app using spotify api and spotify SDK with React.js, Next.js and Redux"
   },
@@ -37,41 +37,27 @@
       "2embed"
     ],
     "live_preview": "https://netflix-mmm066550.netlify.app",
-    "repo": "https://github.com/mmm-066550/Netflix_React_Clone",
+    "repo": "https://github.com/code-dreamer-xyz/netflix_react_clone",
     "thubmnail": "/assets/images/projects/netflix.png",
     "overview": "📽🍿 Netflix React Clone is a cloned single page application of Netflix website using ReactJS and ReduxJs for state management "
   },
   {
     "index": 4,
-    "title": "MEBOOK",
-    "tools": [
-      "ReactJs",
-      "NodeJs",
-      "ExpressJs",
-      "MongoDB",
-      "Redux",
-      "Sass",
-      "Axios"
-    ],
-    "live_preview": "https://mebook-mmm066550.netlify.app",
-    "repo": "https://github.com/mmm-066550/MEBOOK-Client",
-    "thubmnail": "/assets/images/projects/mebook.png",
-    "overview": "📚 MEBOOK is e-books store Website app with ReactJs and ReduxJs (client-side) and NodeJS for backend server (API)"
-  }
-  ,
+    "title": "Tyqoon",
+    "tools": ["Angular", "TailwindCSS", "Angular Universal", "Ionic"],
+    "live_preview": "https://next.tyqoon.co",
+    "repo": "https://github.com/code-dreamer-xyz/",
+    "thubmnail": "/assets/images/projects/tyqoon.png",
+    "overview": "🎁👪 Tyqoon e-commerce site"
+  },
   {
     "index": 5,
-    "title": "PICK-A",
-    "tools": [
-      "ReactJs",
-      "Sass",
-      "Bootstrap",
-      "Axios"
-    ],
-    "live_preview": "https://pick-a.net",
-    "repo": "https://github.com/mmm-066550",
-    "thubmnail": "/assets/images/projects/pick.png",
-    "overview": "🌮🛴 Pick-A (Food Delivery)"
+    "title": "Bitcoinaverage",
+    "tools": ["Angular", "Ngrx", "Bootstrap", "D3Js", "ParticleJs"],
+    "live_preview": "https://bitcoinaverage.com",
+    "repo": "https://github.com/code-dreamer-xyz/",
+    "thubmnail": "/assets/images/projects/bitcoinaverage.png",
+    "overview": "💰⚡ Bitcoin and Cryptocurrency Price API that powers your Crypto and Blockchain apps."
   },
   {
     "index": 6,
@@ -86,7 +72,7 @@
       "Axios"
     ],
     "live_preview": "https://nextentertainment.tv",
-    "repo": "https://github.com/mmm-066550",
+    "repo": "https://github.com/code-dreamer-xyz/",
     "thubmnail": "/assets/images/projects/next.png",
     "overview": "📺 NEXT Entertainment TV Website (Streaming & Social Media)"
   }
